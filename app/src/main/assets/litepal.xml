@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<litepal>
+    <dbname value="xiaopeng" ></dbname>
+
+    <version value="1" ></version>
+
+    <list>
+        <mapping class="com.example.xiaopeng.data.data.DailyEnglish"/>
+        <mapping class="com.example.xiaopeng.data.data.DataAnswer"/>
+        <mapping class="com.example.xiaopeng.data.data.DataProblem"/>
+        <mapping class="com.example.xiaopeng.data.data.DataTheme"/>
+        <mapping class="com.example.xiaopeng.data.data.Register"/>
+    </list>
+</litepal>
